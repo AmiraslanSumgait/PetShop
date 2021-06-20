@@ -1,0 +1,16 @@
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\bin\Debug\net5.0\PetShop.exe
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\bin\Debug\net5.0\PetShop.deps.json
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\bin\Debug\net5.0\PetShop.runtimeconfig.json
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\bin\Debug\net5.0\PetShop.runtimeconfig.dev.json
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\bin\Debug\net5.0\PetShop.dll
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\bin\Debug\net5.0\ref\PetShop.dll
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\bin\Debug\net5.0\PetShop.pdb
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\obj\Debug\net5.0\PetShop.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\obj\Debug\net5.0\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\obj\Debug\net5.0\PetShop.AssemblyInfoInputs.cache
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\obj\Debug\net5.0\PetShop.AssemblyInfo.cs
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\obj\Debug\net5.0\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\obj\Debug\net5.0\PetShop.dll
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\obj\Debug\net5.0\ref\PetShop.dll
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\obj\Debug\net5.0\PetShop.pdb
+C:\Users\Amiraslan\source\repos\PetShop\PetShop\obj\Debug\net5.0\PetShop.genruntimeconfig.cache
